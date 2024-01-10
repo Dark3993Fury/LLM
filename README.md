@@ -1,1 +1,2 @@
-# LLM
+# "LLM Playground"!
+Explore a collection of codes related to Language Model (LLM) development, ranging from fundamental concepts to advanced implementations. This repository serves as a learning hub for anyone interested in understanding and working with Language Models. Whether you're a beginner eager to grasp the basics or an advanced user seeking in-depth insights, you'll find a variety of code examples, tutorials, and projects here. Dive into the fascinating world of language processing, model training, and natural language understanding. Let's code and innovate together in the realm of Language Models!
